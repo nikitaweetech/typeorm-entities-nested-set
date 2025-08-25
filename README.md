@@ -1,1 +1,1 @@
-# typeorm-entities-nested-set
+# IN Nested set in typeorm used 
